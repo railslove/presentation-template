@@ -2,6 +2,10 @@ class: title
 
 # Title
 
+???
+presentation notes:
+Hello my name is ... and I am very glad to be here today.
+
 ---
 
 # Agenda
@@ -10,6 +14,12 @@ class: title
 2. Deep-dive
 3. ...
 
+???
+more presentation notes
+
 ---
 
 background-image: url(images/sunshine.jpg)
+
+???
+:)
